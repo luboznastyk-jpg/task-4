@@ -1,2 +1,2 @@
 # git-github-case
-Repository for github case.
+Боря выходит из отпуска
